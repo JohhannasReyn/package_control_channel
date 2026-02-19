@@ -193,6 +193,18 @@
 			]
 		},
 		{
+			"name": "HandeeFramer",
+			"details": "https://github.com/JohhannasReyn/HandeeFramer",
+			"author" : "Johhannas Reyn",
+			"labels": ["productivity", "developer-tools", "scaffolding", "markdown", "codefences", "file-folder-creation"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "HandyLLM",
 			"details": "https://github.com/atomiechen/Sublime-HandyLLM",
 			"author": "Atomie CHEN",
